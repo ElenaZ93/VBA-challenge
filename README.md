@@ -21,7 +21,6 @@ Add functionality to your script to return the stock with the "Greatest % increa
 
 ![Screenshot of the challenge](https://github.com/ElenaZ93/VBA-challenge/blob/4769aef03e080ccf9826726c01faadd7bddb0249/hard_solution.jpg)
 
-
 The total stock volume of the stock. The result should match the following image:
 
 ![Screenshot of the challenge](https://github.com/ElenaZ93/VBA-challenge/blob/48cb36b40ade011de5d9961379f9b35e9d23c9a2/moderate_solution.jpg)
