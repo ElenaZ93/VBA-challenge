@@ -19,6 +19,7 @@ Create a script that loops through all the stocks for each quarter and outputs t
 
 The total stock volume of the stock. The result should match the following image:
 
+![Screenshot of the challenge]((https://github.com/ElenaZ93/VBA-challenge/blob/4769aef03e080ccf9826726c01faadd7bddb0249/hard_solution.jpg))
 
 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
